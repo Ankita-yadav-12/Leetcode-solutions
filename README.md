@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
