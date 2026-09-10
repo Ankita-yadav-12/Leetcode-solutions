@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
