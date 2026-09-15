@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
