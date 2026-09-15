@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1920-build-array-from-permutation](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
