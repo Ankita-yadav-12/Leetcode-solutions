@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Ankita-yadav-12/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
